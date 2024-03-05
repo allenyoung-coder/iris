@@ -6,7 +6,7 @@ Source code and other details for the project are available at GitHub:
 
 Installation
 
-    $ go get -u github.com/kataras/iris/websocket
+    $ go get -u github.com/allenyoung-coder/iris/websocket
 
 
 Example code:
